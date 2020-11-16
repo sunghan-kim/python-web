@@ -9,3 +9,6 @@
 
 5. MySQL 연동하기 (pymysql)
   - https://kkamikoon.tistory.com/161
+
+6. MySQL 연동하기 (DB 클래스 생성)
+  - https://kkamikoon.tistory.com/162

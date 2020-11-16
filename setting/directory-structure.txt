@@ -1,0 +1,10 @@
+web
+  -- app
+    -- test : 테스트를 위한 폴더
+    -- module : 모듈로써 사용할 python 소스
+    -- schema : MySQL에서 실행할 SQL 소스
+    -- static : js, css, img ...
+    -- templates : HTML 파일들 (폴더별로 정리 가능)
+      - test : 테스트를 위한 폴더
+  -- config.py
+  -- run.py
